@@ -1,6 +1,10 @@
 👋 Hi, I’m @cliffordusidamen
 
-I’m a software developer and product manager over seven years of extensive commercial experience in crafting innovative solutions and driving product excellence. I am focused on taking a proactive approach to problem-solving, a commitment to achieving organizational goals, and a track record of fostering collaborative environments that inspire team success.
+I’m a Full-stack developer (FE-Heavy) and product manager over seven years of extensive commercial experience in crafting innovative solutions and driving product excellence. I am focused on taking a proactive approach to problem-solving, a commitment to achieving organizational goals, and a track record of fostering collaborative environments that inspire team success.
+
+My Stack is JavaScript, PHP, MySQL, MongoDB, HTML & CSS
+
+I am proficient Laravel, React, Vue.js, and Node.js
 
 - 📫 You can connect with me ... https://www.linkedin.com/in/clifford-usidamen
 
