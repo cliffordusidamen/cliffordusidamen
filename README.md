@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cliffordusidamen
-- 👀 I’m interested in cloud development and infrastructure management
-- 🌱 I’m currently learning Web development with Python & Django.
-- 💞️ I’m looking to collaborate on any ideas you may have
+👋 Hi, I’m @cliffordusidamen
+
+I’m a software developer and product manager over seven years of extensive commercial experience in crafting innovative solutions and driving product excellence. I am focused on taking a proactive approach to problem-solving, a commitment to achieving organizational goals, and a track record of fostering collaborative environments that inspire team success.
+
 - 📫 You can connect with me ... https://www.linkedin.com/in/clifford-usidamen
 
 <!---
